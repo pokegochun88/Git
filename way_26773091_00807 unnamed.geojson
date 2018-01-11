@@ -1,0 +1,28 @@
+{
+ "type": "FeatureCollection",
+ "features": [
+  {
+   "id": "way/26773091",
+   "type": "Feature",
+   "geometry": {
+    "type": "LineString",
+    "coordinates": [
+     [
+      114.1299557,
+      22.2597005
+     ],
+     [
+      114.1299391,
+      22.2597851
+     ]
+    ]
+   },
+   "properties": {
+    "@id": "way/26773091",
+    "fill": "#7e7e7e",
+    "leisure": "park",
+    "stroke": "#7e7e7e"
+   }
+  }
+ ]
+}
